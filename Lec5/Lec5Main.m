@@ -1,3 +1,6 @@
+% This program solves for the model in Lec 5: A One-Sector Monetary Model
+% with Idiosyncratic Risk, and gives Fig 5.2.
+
 % housekeeping 
 clear; close all; clc
 
