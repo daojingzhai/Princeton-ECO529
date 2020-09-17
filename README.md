@@ -1,6 +1,6 @@
 # ECO529: Macro, Money and International Finance
 
-This Github repository proides sample codes for  Princeton [ECO529: Macro, Money and International Finance](https://scholar.princeton.edu/markus/classes/eco529-financial-and-monetary-economics), taught by Markus K. Brunnermeier. 
+This Github repository proides sample codes for  [Princeton ECO529: Macro, Money and International Finance](https://scholar.princeton.edu/markus/classes/eco529-financial-and-monetary-economics), taught by Markus K. Brunnermeier. 
 
 #### Lecture Notes
 Online [Lecture Notes](https://www.dropbox.com/s/z73ys7xpqaxwdua/ECO529_Notes.pdf?dl=0). (preliminary and evolving)
